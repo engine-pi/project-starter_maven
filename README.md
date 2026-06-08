@@ -25,6 +25,8 @@ Vorlage für ein Projekt mit dem Build-Tool Maven und der IDE Visual Studio Code
 * Alf
 * BIG
 
+Repository: https://inf.pirckheimer-gymnasium.de/kebab/kebab
+
 Projekt-Idee:
 
 ## Gruppe „Doldis“:
@@ -33,5 +35,7 @@ Projekt-Idee:
 * Emily
 * Max
 * Moritz
+
+Repository: https://inf.pirckheimer-gymnasium.de/WoMa/DoldiProjekt
 
 Projekt-Idee:

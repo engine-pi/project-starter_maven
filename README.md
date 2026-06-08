@@ -11,7 +11,7 @@ Vorlage für ein Projekt mit dem Build-Tool Maven und der IDE Visual Studio Code
   * Einfache grafische Benutzeroberfläche implementieren
   * Überprüfen die Funktionalität eines vorgegebenen Softwareprodukts mit unterschiedlichen Testverfahren
   * Verwenden der zugehörigen [Dokumentation](https://engine-pi.github.io/engine-pi/) ([API](https://engine-pi.github.io/javadocs/pi/package-summary.html))
-  * Versionsverwaltung verwenden ([git](https://git-scm.com/))
+  * Versionsverwaltung verwenden ([git](https://git-scm.com))
   * UML-Diagramme erstellen
 * KI-Verwendung ist erlaubt
 * LIZENZ: freie Lizenz
@@ -23,7 +23,7 @@ Vorlage für ein Projekt mit dem Build-Tool Maven und der IDE Visual Studio Code
 
 * Polaris
 * Alf
-* K
+* BIG
 
 Projekt-Idee:
 

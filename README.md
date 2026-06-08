@@ -16,3 +16,22 @@ Vorlage für ein Projekt mit dem Build-Tool Maven und der IDE Visual Studio Code
 * KI-Verwendung ist erlaubt
 * LIZENZ: freie Lizenz
 * Anwesenheit zu den Unterrichtszeiten
+
+# Gruppen:
+
+## Gruppe Kebab:
+
+* Polaris
+* Alf
+* K
+
+Projekt-Idee:
+
+## Gruppe Doldis
+
+* Kristian
+* Emily
+* Max
+* Moritz
+
+Projekt-Idee:

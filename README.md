@@ -8,8 +8,8 @@ Vorlage für ein Projekt mit dem Build-Tool Maven und der IDE Visual Studio Code
 * Abgabetermin des Projekts: Montag 27. Juli 9:25
 * Verwendung der [Engine-Pi](https://github.com/engine-pi/engine-pi)
 * [Lehrplananforderungen](https://www.lehrplanplus.bayern.de/fachlehrplan/gymnasium/12/informatik/grundlegend):
-  * einfache grafische Benutzeroberfläche implementieren
-  * überprüfen die Funktionalität eines vorgegebenen Softwareprodukts mit unterschiedlichen Testverfahren
+  * Einfache grafische Benutzeroberfläche implementieren
+  * Überprüfen die Funktionalität eines vorgegebenen Softwareprodukts mit unterschiedlichen Testverfahren
   * Verwenden der zugehörigen [Dokumentation](https://engine-pi.github.io/engine-pi/) ([API](https://engine-pi.github.io/javadocs/pi/package-summary.html))
   * Versionsverwaltung verwenden ([git](https://git-scm.com/))
   * UML-Diagramme erstellen
@@ -19,7 +19,7 @@ Vorlage für ein Projekt mit dem Build-Tool Maven und der IDE Visual Studio Code
 
 # Gruppen:
 
-## Gruppe Kebab:
+## Gruppe „Kebab“:
 
 * Polaris
 * Alf
@@ -27,7 +27,7 @@ Vorlage für ein Projekt mit dem Build-Tool Maven und der IDE Visual Studio Code
 
 Projekt-Idee:
 
-## Gruppe Doldis
+## Gruppe „Doldis“:
 
 * Kristian
 * Emily

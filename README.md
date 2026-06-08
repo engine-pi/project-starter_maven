@@ -27,7 +27,7 @@ Vorlage für ein Projekt mit dem Build-Tool Maven und der IDE Visual Studio Code
 
 Repository: https://inf.pirckheimer-gymnasium.de/kebab/kebab
 
-Projekt-Idee:
+Projekt-Idee: Cookie-Klicker-Progress-Game (Döner-Klicker)
 
 ## Gruppe „Doldis“:
 
@@ -38,4 +38,4 @@ Projekt-Idee:
 
 Repository: https://inf.pirckheimer-gymnasium.de/WoMa/DoldiProjekt
 
-Projekt-Idee:
+Projekt-Idee: Super-Mario-Clone (NES)

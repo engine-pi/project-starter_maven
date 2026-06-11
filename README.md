@@ -39,3 +39,12 @@ Projekt-Idee: Cookie-Klicker-Progress-Game (Döner-Klicker)
 Repository: https://inf.pirckheimer-gymnasium.de/WoMa/DoldiProjekt
 
 Projekt-Idee: Super-Mario-Clone (NES)
+
+## Gruppe „Uchiha-Clan“
+
+* Yasir Uchiha
+* Kaan Uchiha
+
+Repository: https://inf.pirckheimer-gymnasium.de/Kaan_Uchiha/OtsutskiGame.git
+
+Projekt-Idee:

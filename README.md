@@ -47,4 +47,4 @@ Projekt-Idee: Super-Mario-Clone (NES)
 
 Repository: https://inf.pirckheimer-gymnasium.de/Kaan_Uchiha/OtsutskiGame.git
 
-Projekt-Idee:
+Projekt-Idee: Graal-Uchiha
